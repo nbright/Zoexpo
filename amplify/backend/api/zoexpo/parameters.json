@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "zoexpo",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognitoe5dc98fa",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

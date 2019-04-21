@@ -1,0 +1,19 @@
+{
+    "zoenv": {
+        "awscloudformation": {
+            "AuthRoleName": "zoexpo-20190421180511-authRole",
+            "UnauthRoleArn": "arn:aws:iam::717097466986:role/zoexpo-20190421180511-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::717097466986:role/zoexpo-20190421180511-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "zoexpo-20190421180511-deployment",
+            "UnauthRoleName": "zoexpo-20190421180511-unauthRole",
+            "StackName": "zoexpo-20190421180511",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:717097466986:stack/zoexpo-20190421180511/943f7120-6414-11e9-97c2-06b0f0aac298"
+        },
+        "categories": {
+            "auth": {
+                "cognitoe5dc98fa": {}
+            }
+        }
+    }
+}
